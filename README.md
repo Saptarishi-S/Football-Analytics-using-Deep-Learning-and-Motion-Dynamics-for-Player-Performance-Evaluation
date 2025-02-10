@@ -1,5 +1,6 @@
 # Football-Analytics-using-Deep-Learning-and-Motion-Dynamics-for-Player-Performance-Evaluation
 1. This project introduces an innovative AI-Enhanced Football Analytics framework designed to harness the power of deep learning and motion dynamics for a detailed evaluation of player performance. This framework uses state-of-the-art computer vision techniques, including advanced object detection and pose estimation, alongside deep neural networks to automatically extract key performance metrics from high-resolution game footage. By analyzing player movements and dynamics within the game environment, the system provides detailed insights into individual and team performance, offering data-driven perspectives on aspects such as speed, agility, stamina and tactical positioning.
+   
 2. Architecture Diagram
 2.1 Overview of the Architecture
 The architecture of our AI-Enhanced Football Analytics framework consists of several interconnected modules designed to analyze player performance based on video footage. The key steps include video input, player detection, player tracking, and metrics calculation. Each module plays a crucial role in transforming physical behaviors into numerical data, facilitating a structured and quantitative approach to performance evaluation.
